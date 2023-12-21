@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salonee Mishra</h1>
-<h3 align="center">A sophomore at KIIT University</h3>
+<h3 align="center">A Pre Final Year student at KIIT University</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
